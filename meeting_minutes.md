@@ -70,9 +70,10 @@ Reshama: Gender, race, sexual identity, whether we want to try for all at once o
 
 * What are next steps?
   - [x] Gina will add members to Slack
-  - [ ] Gina will create Google Doc with roadmap, Google Doc for PyData survey + experiments
-  - [ ] Gina will create Google Doc for list of existing research, resources
-  - [ ] Establish near-term task list, ask everyone to self-sign up on what they want to contribute to
+  - [x] Gina will create GitHub file with roadmap
+  - [x] Gina will create Google Docs for PyData survey + experiments
+  - [x] Gina will create Google Doc for list of existing research, resources
+  - [x] Establish near-term task list, ask everyone to self-sign up on what they want to contribute to
 
 
 
