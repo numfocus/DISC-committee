@@ -1,6 +1,7 @@
 **NumFOCUS DISC Committee First Meeting**
 
-(Diversity & Inclusion in Scientific Computing) . 
+(Diversity & Inclusion in Scientific Computing) .
+
 03.28.17
 
 **Attendees:**
