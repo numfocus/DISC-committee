@@ -8,7 +8,6 @@
 - April-June 
     1. Compile and collate relevant research and existing data on diversity in open source and scientific computing communities
     Include assessment of current/past NF initiatives
-      -Post to GitHub?
     2. Summarize barriers to collection of accurate data (Gina will give a talk on this subject at PyData Seattle)
 - July-September
   1. Analyze research + data to identify barriers to full participation, gaps in research
