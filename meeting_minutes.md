@@ -22,17 +22,17 @@
 
 
 2. Goals for the Moore Foundation 2-year DISC grant:
-  - production of a scalable kit that can be disseminated to events to help promote best diversity and inclusion practices (including distribution plan)
-  - assessment of current diversity programs at NumFOCUS
-  - identify best diversity practices and challenges, plus suggestions for new programs
-  - creation of initiatives including programs to increase the diversity of project contributors
+    - production of a scalable kit that can be disseminated to events to help promote best diversity and inclusion practices (including distribution plan)
+    - assessment of current diversity programs at NumFOCUS
+    - identify best diversity practices and challenges, plus suggestions for new programs
+    - creation of initiatives including programs to increase the diversity of project contributors
 
 3. Overview of past NF diversity initiatives
-  - Scholarships to PyData, other conferences (SciPy, LSST, AstroPy workshop, etc.)
-  - CFP outreach (primarily to local organizations promoting UR’d groups, @callbackwomen etc)
-  - Local conference committees tasked with creating diverse line-up for keynotes, invited talks
-  - Local conference committees tasked with making sure their membership and review committee is diverse
-  - Local workshops for high school girls on how to code/intro to data science
+    - Scholarships to PyData, other conferences (SciPy, LSST, AstroPy workshop, etc.)
+    - CFP outreach (primarily to local organizations promoting UR’d groups, @callbackwomen etc)
+    - Local conference committees tasked with creating diverse line-up for keynotes, invited talks
+    - Local conference committees tasked with making sure their membership and review committee is diverse
+    - Local workshops for high school girls on how to code/intro to data science
 
 4. Discussion: What do we mean when we say “diversity?”
 
@@ -78,16 +78,16 @@ Reshama: Gender, race, sexual identity, whether we want to try for all at once o
 
 **Proposed Roadmap, Year 1:**
 * April-June 
-  1 Compile and collate relevant research and existing data on diversity in open source and scientific computing communities
+    1 Compile and collate relevant research and existing data on diversity in open source and scientific computing communities
     Include assessment of current/past NF initiatives
-    -Post to GitHub?
-  2 Summarize barriers to collection of accurate data (Gina will give a talk on this subject at PyData Seattle)
+      -Post to GitHub?
+    2 Summarize barriers to collection of accurate data (Gina will give a talk on this subject at PyData Seattle)
 * July-September
-  1 Analyze research + data to identify barriers to full participation, gaps in research
-  2 Formulate strategy to tackle barriers to collection of accurate data
+    1 Analyze research + data to identify barriers to full participation, gaps in research
+    2 Formulate strategy to tackle barriers to collection of accurate data
 * October-December
-  1 Conduct research to fill any major gaps in understanding participation, barriers to participation
-  2 Develop initial list of best practices (proven and/or untested)
+    1 Conduct research to fill any major gaps in understanding participation, barriers to participation
+    2 Develop initial list of best practices (proven and/or untested)
   3 Devise rollout method for testing best practices
     Ensure we are communicating with conferences available for that.
 * January-March
