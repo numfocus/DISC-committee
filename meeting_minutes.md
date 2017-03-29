@@ -22,17 +22,17 @@
 
 
 2. Goals for the Moore Foundation 2-year DISC grant:
-..* production of a scalable kit that can be disseminated to events to help promote best diversity and inclusion practices (including distribution plan)
-..* assessment of current diversity programs at NumFOCUS
-..* identify best diversity practices and challenges, plus suggestions for new programs
-..* creation of initiatives including programs to increase the diversity of project contributors
+  - production of a scalable kit that can be disseminated to events to help promote best diversity and inclusion practices (including distribution plan)
+  - assessment of current diversity programs at NumFOCUS
+  - identify best diversity practices and challenges, plus suggestions for new programs
+  - creation of initiatives including programs to increase the diversity of project contributors
 
 3. Overview of past NF diversity initiatives
-..* Scholarships to PyData, other conferences (SciPy, LSST, AstroPy workshop, etc.)
-..* CFP outreach (primarily to local organizations promoting UR’d groups, @callbackwomen etc)
-..* Local conference committees tasked with creating diverse line-up for keynotes, invited talks
-..* Local conference committees tasked with making sure their membership and review committee is diverse
-..* Local workshops for high school girls on how to code/intro to data science
+  - Scholarships to PyData, other conferences (SciPy, LSST, AstroPy workshop, etc.)
+  - CFP outreach (primarily to local organizations promoting UR’d groups, @callbackwomen etc)
+  - Local conference committees tasked with creating diverse line-up for keynotes, invited talks
+  - Local conference committees tasked with making sure their membership and review committee is diverse
+  - Local workshops for high school girls on how to code/intro to data science
 
 4. Discussion: What do we mean when we say “diversity?”
 
@@ -65,33 +65,33 @@ Erica:  What do you mean by group?
 Reshama: Gender, race, sexual identity, whether we want to try for all at once or start with one and expand it to other groups, etc.  
 
 * How to collaborate?
-..* Shared google docs (hosted @ NF)
-..* Slack for conversation and ideas (NF can host it)
+  - Shared google docs (hosted @ NF)
+  - Slack for conversation and ideas (NF can host it)
 
 * What are next steps?
-..* Gina will add members to Slack
-..* Gina will create Google Doc with roadmap, Google Doc for PyData survey + experiments
-..* Gina will create Google Doc for list of existing research, resources
-..* Establish near-term task list, ask everyone to self-sign up on what they want to contribute to
+  [x] Gina will add members to Slack
+  [] Gina will create Google Doc with roadmap, Google Doc for PyData survey + experiments
+  [] Gina will create Google Doc for list of existing research, resources
+  [] Establish near-term task list, ask everyone to self-sign up on what they want to contribute to
 
 
 
 **Proposed Roadmap, Year 1:**
 * April-June 
-..1 Compile and collate relevant research and existing data on diversity in open source and scientific computing communities
-..* Include assessment of current/past NF initiatives
-...* Post to GitHub?
-..2 Summarize barriers to collection of accurate data (Gina will give a talk on this subject at PyData Seattle)
+  1 Compile and collate relevant research and existing data on diversity in open source and scientific computing communities
+    Include assessment of current/past NF initiatives
+    -Post to GitHub?
+  2 Summarize barriers to collection of accurate data (Gina will give a talk on this subject at PyData Seattle)
 * July-September
-..1 Analyze research + data to identify barriers to full participation, gaps in research
-..2 Formulate strategy to tackle barriers to collection of accurate data
+  1 Analyze research + data to identify barriers to full participation, gaps in research
+  2 Formulate strategy to tackle barriers to collection of accurate data
 * October-December
-..1 Conduct research to fill any major gaps in understanding participation, barriers to participation
-..2 Develop initial list of best practices (proven and/or untested)
-..3 Devise rollout method for testing best practices
-...* Ensure we are communicating with conferences available for that.
+  1 Conduct research to fill any major gaps in understanding participation, barriers to participation
+  2 Develop initial list of best practices (proven and/or untested)
+  3 Devise rollout method for testing best practices
+    Ensure we are communicating with conferences available for that.
 * January-March
-..1 Conduct best practices test(s)
-...* Collect & analyze results
-..2 Revise best practices list as-needed
-..3 Publish summary of research and findings
+  1 Conduct best practices test(s)
+    -Collect & analyze results
+  2 Revise best practices list as-needed
+  3 Publish summary of research and findings
