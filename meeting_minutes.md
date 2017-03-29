@@ -1,9 +1,9 @@
-**NumFOCUS DISC Committee First Meeting** . 
-(Diversity & Inclusion in Scientific Computing) . 
+**NumFOCUS DISC Committee First Meeting** 
+(Diversity & Inclusion in Scientific Computing) 
 03.28.17
 
 **Attendees:**
-Gina Helfrich (NumFOCUS Communications Director; DISC Program Mgr.) .
+Gina Helfrich (NumFOCUS Communications Director; DISC Program Mgr.) 
 Kari Jordan (Deputy Dir. Assessment for Data Carpentry) .
 Erica Moszkowski (Research Analyst, Fed. Bank of NY; graduate school in fall @ Harvard Business School, Diversity Chair @JuliaCon) .
 Reshama Shaikh (Data Scientist @ Metis; organizes NY WiMLDS) .
