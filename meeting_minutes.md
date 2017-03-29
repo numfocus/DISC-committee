@@ -78,9 +78,7 @@ Reshama: Gender, race, sexual identity, whether we want to try for all at once o
 
 **Proposed Roadmap, Year 1:**
 - April-June 
-    1. Compile and collate relevant research and existing data on diversity in open source and scientific computing communities
-    Include assessment of current/past NF initiatives
-      -Post to GitHub?
+    1. Compile and collate relevant research and existing data on diversity in open source and scientific computing communities (Include assessment of current/past NF initiatives)
     2. Summarize barriers to collection of accurate data (Gina will give a talk on this subject at PyData Seattle)
 - July-September
   1. Analyze research + data to identify barriers to full participation, gaps in research
@@ -92,6 +90,6 @@ Reshama: Gender, race, sexual identity, whether we want to try for all at once o
     Ensure we are communicating with conferences available for that.
 - January-March
   1. Conduct best practices test(s)
-    -Collect & analyze results
-  2. Revise best practices list as-needed
-  3. Publish summary of research and findings
+  2. Collect & analyze results
+  3. Revise best practices list as-needed
+  4. Publish summary of research and findings
