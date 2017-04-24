@@ -15,3 +15,4 @@ DISC Committee Members:
 - Alex Companioni 
 - Igor Steinmacher
 - Christine Doig
+- Julia Meinwald
