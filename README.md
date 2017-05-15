@@ -13,6 +13,5 @@ DISC Committee Members:
 - Manuel Rivas 
 - Tobi Bosede 
 - Alex Companioni 
-- Igor Steinmacher
-- Christine Doig
 - Julia Meinwald
+- Igor Steinmacher
