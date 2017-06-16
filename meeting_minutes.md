@@ -1,4 +1,60 @@
 **NumFOCUS DISC Committee Meeting**  
+06.14.17
+
+**Attendees:**  
+Gina Helfrich  
+Leah Silen  
+Kari Jordan  
+Alex Companioni  
+Tobi Bosede  
+Reshama Shaikh  
+
+**Not Present:**   
+Erica Moszkowski  
+Manuel Rivas  
+Julia Meinwald  
+Jennifer Klay  
+Igor Steinmacher    
+
+The focus for today's meeting was to review the D&I survey questions that Alex, Erica, and Gina drafted. We will discuss any specific questions that the committee wants to address, as well as determine an appropriate strategy for implementation of teh questions into a survey.  
+
+Alex: Few things we tried to emphasize in the questions:
+- Better understanding to what degree we’re bringing in a diverse set of attendees
+- Diversity takes a lot of dimensions (demographics, experience, industry, toolsets, etc.)
+- His personal preference: tried to limit number of free-form answers
+ 
+Gina: Can get good info from qualitative questions, although it's more time-consuming.
+ 
+Alex: Can look at qualitative answers in light of specific cross-sections of answers to quantitative/demographic questions.
+ 
+Kari: Appreciates self-identification approach to gender, ethnicity questions. Add a box that says “please write-in what you mean by that.” (Basically a both-and approach.) There may be groups who self-identify as underrepresented who we don’t even know about.
+ 
+Reshama: Do we have “thank you for participating” language? 
+ 
+Gina: No, but we should draft that language. I can take a first crack and disseminate it for comments.
+ 
+Kari: I can look at it once circulated. From Data Carpentry standpoint, people ask “why are you asking these questions? We should be past this racial/gender stuff.” Explain what the goal is and people will respond.
+ 
+Gina: For a later meeting: discuss question of Review Committees and how to handle review process (removing identifying information vs. being pro-active in selecting for diversity). Questions to consider including in CFP: “Is this your first time submitting a CFP? (or is it:  Is this your first time submitting to this conference?)” -- making explicit that this information won't be part of the decision-making process. "Would you like to receive feedback on why your proposal was not accepted?" for first-time submitters who were rejected (rather than: we've received numerous submissions, and can only pick a limited number).
+ 
+Reshama: Should we ask country, nationality -- what if people interpret the “underrepresented” question differently? [Country of residence question was added.]
+
+Tobi: I think the question is reasonably-posed as is; we can sit on it. 
+ 
+Gina: Should we keep or separate demographics & inclusiveness? Concern re: anonymity being compromised.
+ 
+Kari: As part of introductory language, let them know what the info will be used for, that it’s optional, that they can skip any question they don’t feel comfortable answering. 
+ 
+Alex: I think that’s a great way to let people take the option to decide how much or little personal info to provide.
+ 
+Reshama:  We’ll be clear at the beginning whether survey is anonymous or not.
+
+To discuss at next meeting: Sharing questions to other conferences; open-sourcing the survey and sharing results; concerns re: conveying how widely this data will be shared and with whom, anonymized to what extent.
+ 
+  
+---
+  
+**NumFOCUS DISC Committee Meeting**  
 04.26.17
 
 **Attendees:**  
@@ -98,7 +154,7 @@ http://www.pewresearch.org/fact-tank/2015/06/18/census-considers-new-approach-to
 
 
 
-
+---
 
 **NumFOCUS DISC Committee First Meeting**  
 (Diversity & Inclusion in Scientific Computing)       
