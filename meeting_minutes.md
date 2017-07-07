@@ -16,7 +16,7 @@ Julia Meinwald
 Jennifer Klay  
 Igor Steinmacher    
 
-The focus for today's meeting was to review the D&I survey questions that Alex, Erica, and Gina drafted. We will discuss any specific questions that the committee wants to address, as well as determine an appropriate strategy for implementation of teh questions into a survey.  
+The focus for today's meeting was to review the D&I survey questions that Alex, Erica, and Gina drafted. We will discuss any specific questions that the committee wants to address, as well as determine an appropriate strategy for implementation of the questions into a survey.  
 
 Alex: Few things we tried to emphasize in the questions:
 - Better understanding to what degree we’re bringing in a diverse set of attendees
