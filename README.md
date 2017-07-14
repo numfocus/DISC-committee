@@ -14,4 +14,3 @@ DISC Committee Members:
 - Tobi Bosede 
 - Alex Companioni 
 - Julia Meinwald
-- Igor Steinmacher
