@@ -1,3 +1,81 @@
+NumFOCUS DISC Committee Meeting  
+07.07.17  
+
+**Attendees:**  
+Gina Helfrich  
+Jennifer Klay  
+Tobi Bosede  
+Reshama Shaikh  
+Erica Moszkowski  
+
+**Not Present:**   
+Manuel Rivas  
+Julia Meinwald  
+Kari Jordan  
+Alex Companioni   
+
+**Agenda**
+1. Survey update  
+a) Confidentiality update  
+b) Final checks  
+2. Other Updates  
+a) Workshops for underprivileged communities (Manuel) — Manuel & Kari & Gina met earlier to brainstorm; Manuel will send proposal outlining scope and details   
+b) SciPy diversity efforts (Gina) — Gina served on SciPy Diversity Committee; Julie Hollek presentation on their efforts https://docs.google.com/presentation/d/13UhaA7W-EYpauOiGPfTzWj1vSXtk2KVMe52mDEbY0rE/edit   
+c) Undergraduate women intro to data science workshops (Gina) — Looking for venue for Sept 30th in SF; grant money is from OSDC  
+d) JuliaCon (Erica) 
+
+ - Entire community was very excited about D&I efforts  
+Erica’s talk about what they had done is now on Youtube https://www.youtube.com/watch?v=eXYdi9D8Rjs  
+Slides available on Erica’s GitHub: https://github.com/emoszkowski/DiversityInclusion-JuliaCon2017  
+They did run a post-conference survey  
+3. Next project: Best practices for organizing committees  
+a) Develop sketch of conference tasks and policies relevant to diversity & inclusion    
+
+(Can also pull from assembled resources document.)  
+What is the low-hanging fruit? Ask conference organizers in our network: What have they done? What did they find challenging? What had biggest impact?  
+
+Who would like to help lead this project?
+- Reshma
+- Jennifer  
+Will also ask those not present.  
+
+SKETCH OF AREAS TO DRILL DOWN ON:  
+
+Org. Committee make-up
+
+Code of Conduct
+- Reporting procedures
+- Response to violations
+
+Outreach
+- Advocates/ambassadors for outreach — encouraging people to apply for the CFP, to apply for the diversity scholarships, to attend, to give keynotes, etc.
+- Community Org. partnerships
+
+Speakers
+- Invited speakers
+- Selected speakers
+- CFP instructions
+- CFP review (“blind” vs “affirmative action”)  
+
+Services available on-site
+- Childcare
+- Accessibility
+- Bathrooms  
+
+Diversity Programming or Meet-Ups during the conference
+- BOFs
+- Meet & Greet  
+
+Registration process  
+
+Scholarships
+- Registration
+- Travel
+- Where to get funding?  
+
+---  
+
+
 **NumFOCUS DISC Committee Meeting**  
 06.14.17
 
