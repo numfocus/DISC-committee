@@ -1,5 +1,5 @@
 NumFOCUS DISC Committee Meeting  
-07.07.17  
+07.11.17  
 
 **Attendees:**  
 Gina Helfrich  
