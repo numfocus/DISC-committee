@@ -11,6 +11,7 @@ DISC Committee Members:
 - Erica Moszkowski
 - Reshama Shaikh
 - Manuel Rivas 
-- Tobi Bosede 
 - Alex Companioni 
 - Julia Meinwald
+
+You can also explore the projects developed at the first DISC Unconference [here](https://github.com/numfocus/DISC-unconf-17).
