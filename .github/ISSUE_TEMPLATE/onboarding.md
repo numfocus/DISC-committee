@@ -24,4 +24,4 @@ assignees: @trallard, @arliss-NF
 ## Other actions
 
 - [ ] Have familiarised themselves with the WG charter
-- [ ] Have familiarised themselves with the
+- [ ] Have familiarised themselves with the meeting procedure

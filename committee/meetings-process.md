@@ -1,5 +1,7 @@
 # Committee Meetings
 
+**Table of content**
+
 - [Committee Meetings](#committee-meetings)
   - [Frequency and quorum](#frequency-and-quorum)
   - [Meetings' order of business](#meetings-order-of-business)
@@ -7,6 +9,7 @@
   - [Communication Norms](#communication-norms)
   - [Discussions during Committee Meetings](#discussions-during-committee-meetings)
   - [Voting Procedure during committee Meetings](#voting-procedure-during-committee-meetings)
+  - [References](#references)
 
 ## Frequency and quorum
 
@@ -70,7 +73,7 @@ Each item on the agenda should be handled as follows:
 
 **Example:**
 
-```
+```md
     bm1: RESOLVED, that all board members wear hats, unless it's raining, a Friday, or Easter falls on a Sunday.
     chair: DISCUSS
     bm2: So we never wear hats in a year where Easter falls on a Sunday ?

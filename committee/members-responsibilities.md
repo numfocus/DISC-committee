@@ -1,7 +1,7 @@
 # DISC members' responsibilities
 
 > **Note**
-> These responsibilities as well as other details from the DISC committee are available in the [Working group charter](DISC-Committee-Charter-2021.pdf)
+> These responsibilities as well as other details from the DISC committee come from the [Working group charter](DISC-Committee-Charter-2021.pdf)
 
 ## Chair
 
@@ -37,6 +37,5 @@
 4. Stays informed about committee matters, prepares themselves well for meetings, submits their monthly progress report
    on time, and reviews and comments on minutes and reports.
 
-> **Note:**
-> The NumFOCUS Board of Directors will serve as advisors or make decisions as requested by the DISC committee including
-> but not limited to decisions that involve leaders or situations involving conflict.
+> **Note**
+> The NumFOCUS Board of Directors will serve as advisors or make decisions as requested by the DISC committee including but not limited to decisions that involve leaders or situations involving conflict.

@@ -22,7 +22,7 @@ To learn more about our work, please visit [the DISC website](https://numfocus.o
 
 - :book: [DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook)
 - :bookmark: Projects developed at the first [DISC Unconference](https://github.com/numfocus/DISC-unconf-17)
-- :document: [DISC-committee-charter](DISC-committee/DISC-Committee-Charter-2021.pdf)
+- :page_with_curl: [DISC-committee-charter](DISC-committee/DISC-Committee-Charter-2021.pdf)
 
 ## Code of Conduct
 
