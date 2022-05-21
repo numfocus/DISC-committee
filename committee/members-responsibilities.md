@@ -3,7 +3,7 @@
 > **Note**
 > These responsibilities as well as other details from the DISC committee come from the [Working group charter](DISC-Committee-Charter-2021.pdf)
 
-## Chair
+## Chairperson
 
 1. Convene the Steering Committee once per month (or as needed)
 2. Set the agenda for Committee meetings
@@ -27,7 +27,7 @@
    September, and December
 2. Reports should include the following metrics:
    - Overview of activities, challenges, and outcomes
-   - Budget update including spending for that quarter - if applicable
+   - Budget updates including spending for that quarter - if applicable
 
 ## All-members' responsibilities
 

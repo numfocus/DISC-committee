@@ -1,6 +1,6 @@
 # Committee Meetings
 
-**Table of content**
+**Table of contents**
 
 - [Committee Meetings](#committee-meetings)
   - [Frequency and quorum](#frequency-and-quorum)
