@@ -1,8 +1,9 @@
 ---
-name: Onboarding checklist
+name: "Onboarding checklist"
 about: Use this template for onboarding new committee members
 title: "[ONBOARDING]: <individual's name>"
-labels: "type: onboarding"
+labels: 
+  - "type: onboarding"
 assignees: @trallard, @arliss-NF
 ---
 

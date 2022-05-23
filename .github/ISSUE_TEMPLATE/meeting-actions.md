@@ -1,7 +1,8 @@
 ---
-name: Committee meeting actions
+name: "Committee meeting actions"
 title: "<month> - commitee meeting actions"
-labels: "committee-meeting"
+labels: 
+    - "committee-meeting"
 assignees: @melissawm, @trallard
 ---
 
