@@ -3,7 +3,10 @@ name: "Committee meeting actions"
 title: "<month> - commitee meeting actions"
 labels: 
     - "committee-meeting"
-assignees: @melissawm, @trallard
+assignees: 
+    - "@melissawm"
+    - "@trallard"
+  
 ---
 
 ## Before the meeting

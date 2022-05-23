@@ -4,7 +4,10 @@ about: Use this template for onboarding new committee members
 title: "[ONBOARDING]: <individual's name>"
 labels: 
   - "type: onboarding"
-assignees: @trallard, @arliss-NF
+assignees: 
+  - "@trallard"
+  - "@arliss-NF"
+  
 ---
 
 # Onboarding checklist
