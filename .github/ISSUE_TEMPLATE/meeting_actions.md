@@ -1,12 +1,10 @@
 ---
-name: "Committee meeting actions"
-title: "<month> - commitee meeting actions"
+name: "Monthly meeting actions"
+about: Use this to keep track of the monthly meeting
+title: "[MONTHLY]: <month>"
 labels: 
-    - "committee-meeting"
-assignees: 
-    - "@melissawm"
-    - "@trallard"
-  
+  - "type: committee-meeting 💬"
+
 ---
 
 ## Before the meeting
