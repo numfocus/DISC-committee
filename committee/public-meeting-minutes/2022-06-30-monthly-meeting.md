@@ -88,7 +88,7 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 
 Minutes from prior meeting May 24, 2022:
 
-RESOLVED, that the DISC committee approve the minutes at [committee/public-meeting-minutes/2022-05-24-monthly-meeting.md](./committee/public-meeting-minutes/2022-05-24-monthly-meeting.md) as representing a true and accurate record of the May 24, 2022 meeting.
+RESOLVED, that the DISC committee approve the minutes at [`committee/public-meeting-minutes/2022-05-24-monthly-meeting.md`](./2022-05-24-monthly-meeting.md) as representing a true and accurate record of the May 24, 2022 meeting.
 
 Approved, 5-0-1
 
