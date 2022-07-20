@@ -16,11 +16,11 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 
 ## New business
 
-* Secretary
-* Committee meeting schedule
-* DISC Unconference
-* DISC Cookbook
-* NF CoC
+* [Secretary](#secretary)
+* [Committee meeting schedule](#committee-meeting-schedule)
+* [DISC Unconference](#disc-unconference)
+* [DISC Cookbook](#working-group---discover-cookbook-revamp)
+* [NF CoC](#coc)
 
 ## Discussions
 [June 2022 - DISC Committee Meeting Agenda](https://docs.google.com/document/d/1TI0xa1afsj_dXnGsEqRC4WYwVY-jQ_-hRi3OYmo549s/edit#)
