@@ -39,7 +39,7 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
     * update infrastructure
     * community
     * content
-* working group of 4: Tania, Noa, Mark, ?
+* working group of 4: Tania, Noa, Mark, Tereza
 * as soon as new infrastructure setup, will start work on content
 
 # any other business
