@@ -6,9 +6,9 @@
 |-----------|---|
 | 📅 - Date | July 28, 2022 |
 | 🙋🏽‍♀️ - Attendees | Noa Tamir, Mark Mikofski, Katrina Riehl, Melissa Mendonça, Mariana Meireles, Leah Silen  |
-| 💬 - Chair in-session | Tania Allard |
+| 💬 - Chair in-session | Melissa Mendonça |
 | 📝 - Secretary | Mark Mikofski |
-| ✅ - Minutes approval date |   |
+| ✅ - Minutes approval date | August 25, 2022  |
 
 A regular meeting of the DISC Committee was held over Group Conference Call via phone and Internet Relay Chat/Slack beginning at 2:00 UTC, on March 22, 2022. Tania Allard took notes/minutes.
 
