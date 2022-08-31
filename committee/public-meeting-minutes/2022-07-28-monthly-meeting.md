@@ -10,7 +10,7 @@
 | 📝 - Secretary | Mark Mikofski |
 | ✅ - Minutes approval date | August 25, 2022  |
 
-A regular meeting of the DISC Committee was held over Group Conference Call via phone and Internet Relay Chat/Slack beginning at 2:00 UTC, on March 22, 2022. Tania Allard took notes/minutes.
+A regular meeting of the DISC Committee was held over Zoom/Slack beginning at 18:00 UTC, on July 28, 2022. Mark Mikofski took notes/minutes.
 
 All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstentions-A*; e.g. "5-1-2" means "5 in favour, 1 opposed, and 2 abstentions").
 
@@ -58,7 +58,7 @@ RESOLVED, that the DISC committee approve the minutes at https://github.com/numf
 
 Approved, 4-0-1
 
-## Committee reports for June
+## Committee reports for July
 
 ### Melissa Weber Mendonça
 * [Community] - Ongoing maintenance of NUMFOCUS sponsored and affiliate projects
@@ -92,4 +92,4 @@ Approved, 4-0-1
 * no update
 
 
-Meeting adjourned at 20:04 GMT (12:04PM Pacific Time)
+Meeting adjourned at 19:04 UTC
