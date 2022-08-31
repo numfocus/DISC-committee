@@ -7,7 +7,7 @@
 | 📅 - Date | May, 24, 2022 |
 | 🙋🏽‍♀️ - Attendees | Melissa Mendonça-Webber, Tania, Allard, Tereza Iofciu, Noa Tamir, Rachel Malbin, MArk Mikofski, Mariana Meireles, Katrina Riehl, Arliss Colinss (9/10 members)  |
 | 💬 - Chair in-session | Tania Allard|
-| ✅ - Minutes approval date |   |
+| ✅ - Minutes approval date | June 30, 2022  |
 
 A regular meeting of the DISC Committee was held over Group Conference Call via phone and Internet Relay Chat/Slack beginning at 17:30 UTC, on May 24, 2022. Tania Allard took notes/minutes.
 
