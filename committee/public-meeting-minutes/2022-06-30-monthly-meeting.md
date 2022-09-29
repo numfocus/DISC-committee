@@ -10,7 +10,7 @@
 | 📝 - Secretary | Mark Mikofski  |
 | ✅ - Minutes approval date | July 28, 2022  |
 
-A regular meeting of the DISC Committee was held over Group Conference Call via phone and Internet Relay Chat/Slack beginning at 2:00 UTC, on March 22, 2022. Tania Allard took notes/minutes.
+A regular meeting of the DISC Committee was held over Zoom/Slack beginning at 18:00 UTC, on June 30, 2022. Mark Mikofski took notes/minutes.
 
 All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstentions-A*; e.g. "5-1-2" means "5 in favour, 1 opposed, and 2 abstentions").
 
@@ -130,4 +130,4 @@ Approved, 5-0-1
 * Nothing to report
 
 
-Meeting adjourned at 7:07 PM GMT
+Meeting adjourned at 19:07 PM UTC
