@@ -5,7 +5,7 @@
 | <!-- -->    | <!-- -->    |
 |-----------|---|
 | 📅 - Date | August, 25, 2022 |
-| 🙋🏽‍♀️ - Attendees | Melissa Mendonça-Webber, Tania, Allard, Tereza Iofciu, Noa Tamir, Rachel Malbin, Mark Mikofski, Mariana Meireles, Katrina Riehl, Arliss Colinss (9/10 members)  |
+| 🙋🏽‍♀️ - Attendees | Melissa Weber Mendonça, Tania, Allard, Tereza Iofciu, Noa Tamir, Rachel Malbin, Mark Mikofski, Mariana Meireles, Katrina Riehl, Arliss Colinss (9/10 members)  |
 | 💬 - Chair in-session | Tania Allard|
 | ✅ - Minutes approval date | June 30, 2022  |
 
