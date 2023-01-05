@@ -66,7 +66,7 @@ Approved, 6-0-0
 
 ### Tereza Iofciu
 * PyConDE&PyDataBer - call for chairs.. Democratising the conference 😀
-* PSF D&I work group: organising a open session call for the community (for January)
+* PSF D&I work group: organising an open session call for the community (for January)
 
 ### Ana Ruvalcaba
 * Jupyter DEI Committee - invited new member Lucy Jimenez to join the committee. She accepted. Advising JupyterCon committee to encourage improving DEI at JupyterCon 2023.
