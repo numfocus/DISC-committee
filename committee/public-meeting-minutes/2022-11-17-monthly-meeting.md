@@ -33,7 +33,7 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 - Noa to reach out to PyCon Ital organizers to see if rooms available for 50 folks
 - task: [x] Meliss to draft document with main goals, expectations for event to share with PyCon italy organizers and potential funders
 
-### DISC Cookbook updates (Noa or Ter
+### DISC Cookbook updates (Noa or Tereza)
 - Mark added automation to repo for deploying PR drafts and merges/commits to main, see current deployment here: https://numfocus.github.io/DISCOVER-handbook and copmare to original Cookbook here: https://discover-cookbook.numfocus.org/
 - Noa to add more CI as well
 - team is working on technical infrastructure
