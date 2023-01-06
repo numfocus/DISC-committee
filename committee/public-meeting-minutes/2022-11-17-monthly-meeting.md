@@ -52,7 +52,7 @@ Approved, 6-0-0
 * No quorum for September, so no meeting notes
 * Also no quorum for October, ditto
 
-## Committee reports for August
+## Committee reports for October
 
 ### Melissa Weber Mendonça
 * PyData NYC: Presented a Keynote related to the DEI work being done as part of the CZI grant for NumPy, SciPy, Matplotlib and pandas.
