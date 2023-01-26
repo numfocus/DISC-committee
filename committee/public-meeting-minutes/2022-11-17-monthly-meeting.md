@@ -30,7 +30,7 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 - hot topics: deciding on date, location, venue
 - target max attendance at 50 people
 - next steps: define conference goals which will fascilitate who to invite, dates, and location
-- Noa to reach out to PyCon Ital organizers to see if rooms available for 50 folks
+- Noa to reach out to PyCon Italy organizers to see if rooms available for 50 folks
 - task: [x] Meliss to draft document with main goals, expectations for event to share with PyCon italy organizers and potential funders
 
 ### DISC Cookbook updates (Noa or Tereza)
