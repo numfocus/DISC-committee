@@ -8,7 +8,7 @@
 | 🙋🏽‍♀️ - Attendees | Noa Tamir, Melissa Mendonça, Arlis Collins, Tania Allard, Ana Ruvalcaba, Leah Silen, Rachel Malbin, Mark Mikofski, Mariana, Meireles, Tereza Iofciu |
 | 💬 - Chair in-session | Melissa Mendonça  |
 | 📝 - Secretary | Mark Mikofski  |
-| ✅ - Minutes approval date |   |
+| ✅ - Minutes approval date | November 17, 2022  |
 
 A regular meeting of the DISC Committee was held over Zoom/Slack beginning at 18:00 UTC, on August 25, 2022. Melissa Mendonça chaired and Mark Mikofski took notes/minutes.
 
