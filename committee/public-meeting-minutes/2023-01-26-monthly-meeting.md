@@ -7,7 +7,7 @@
 | 🙋🏽‍♀️ - Attendees | Noa Tamir, Ana Ruvalcaba, Arlis Collins, Melissa Mendonça, Tereza Iofciu, Tania Allard, Mark Mikofski, Rachel Malbin |
 | 💬 - Chair in-session | Tania Allard |
 | 📝 - Secretary | Mark Mikofski |
-| ✅ - Minutes approval date |   |
+| ✅ - Minutes approval date | 2023-04-27  |
 
 A regular meeting of the DISC Committee was held over Group Conference Call via phone and Internet Relay Chat/Slack beginning at 18:00 UTC, on January 26, 2023. Tania Allard took notes/minutes.
 
