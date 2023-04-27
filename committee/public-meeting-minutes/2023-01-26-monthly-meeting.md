@@ -76,7 +76,7 @@ RESOLVED, that the DISC committee approve the minutes at https://github.com/numf
 
 Approved, 6-0-0
 
-* No quorum for Deceomber, so no meeting notes.
+* No quorum for December, so no meeting notes.
 
 ## Committee reports for December
 
