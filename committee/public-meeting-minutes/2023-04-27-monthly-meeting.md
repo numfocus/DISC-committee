@@ -80,7 +80,7 @@ APPROVED 5-0-0
 * DISC Unconference organization committee
 * Maintenance tasks and contributor experience work on NumPy, SciPy, Matplotlib
 
-###Tania Allard 
+### Tania Allard 
 * DISC committee monthly meeting and slack conversations as needed 
 * Maintenance tasks on JupyterHub and Jupyter related projects
 * Community calls attendance: Jupyter, conda-forge
