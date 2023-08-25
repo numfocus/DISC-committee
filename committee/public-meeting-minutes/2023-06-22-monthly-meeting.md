@@ -58,7 +58,10 @@ DISC unconference - organisation and discussions
 * PSF D&I work group: organising a open session call for the community (for January)
 
 ### Ana Ruvalcaba
-* no updates
+*Project Jupyter: DEI Committee chair
+*DISC Unconference organization committee - weekly meetings + collaboration 
+*Code of Conduct survey for NF projects collaboration with COC Culture Labs + Astropy
+
 
 ### Noa Tamir
 * Organizing pandas sprints: PyLadies Berlin
