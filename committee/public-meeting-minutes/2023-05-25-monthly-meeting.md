@@ -73,10 +73,9 @@ APPROVED 4-0-0
 * PSF D&I work group: organising a open session call for the community (for January)
 
 ### Ana Ruvalcaba
-*Jupyter DEI Committee chair
-*DISC Unconference organization committee - weekly meetings 
-*Code of Conduct survey for NF projects collaboration with COC Culture Labs + Astropy
-
+* Jupyter DEI Committee chair
+* DISC Unconference organization committee - weekly meetings 
+* Code of Conduct survey for NF projects collaboration with COC Culture Labs + Astropy
 
 ### Noa Tamir
 * Organizing pandas sprints: PyLadies Berlin
