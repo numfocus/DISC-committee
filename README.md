@@ -7,7 +7,7 @@ To learn more about our work, please visit [the DISC website](https://numfocus.o
 
 ## DISC Committee Members
 
-- Melissa Mendonça-Webber (Co-chair)
+- Melissa Weber Mendonça (Co-chair)
 - Tania Allard (Co-chair)
 - Tereza Iofciu
 - Ana Ruvalcaba
