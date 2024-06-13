@@ -7,22 +7,20 @@ To learn more about our work, please visit [the DISC website](https://numfocus.o
 
 ## DISC Committee Members
 
-- Melissa Weber Mendonça (Co-chair)
-- Tania Allard (Co-chair)
-- Tereza Iofciu
-- Ana Ruvalcaba
-- Noa Tamir
-- Rachel Malbin
-- Mark Mikofski
-- Mariana Meireles
-- Katrina Riehl (NumFOCUS board member)
-- Arliss Collins (NumFOCUS staff)
+- Melissa Weber Mendonça (Chair)
+- Anita Ihuman
+- Emma Saroyan
+- Rashid Mvk
+- Kweyakie Blebo
+- Eloisa Elias
+- Kamila Stepniowska (NumFOCUS staff)
 
 ## DISC resources
 
 - :book: [DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook)
-- :bookmark: Projects developed at the first [DISC Unconference](https://github.com/numfocus/DISC-unconf-17)
-- :page_with_curl: [DISC-committee-charter](./committee/DISC-Committee-Charter-2021.pdf)
+- :bookmark: Projects developed at the first [DISC Unconference (2017)](https://github.com/numfocus/DISC-unconf-17)
+- :bookmark: Projects developed at the second [DISC Unconference (2023)](https://github.com/numfocus/disc-unconference-2023-projects)
+- :page_with_curl: [DISC-committee-charter](./committee/DISC-Committee-Charter-2024.pdf)
 
 ## Code of Conduct
 
