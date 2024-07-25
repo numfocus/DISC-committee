@@ -5,7 +5,7 @@
 | <!-- -->    | <!-- -->    |
 |-----------|---|
 | 📅 - Date | 2024-06-13 |
-| 🙋🏽‍♀️ - Attendees | Melissa Mendonça, Tania Allard, Kamila Stepniowska, Mariana Meireles, Anita Ihuman, Eloisa Elias Tran, Kweyakie Blebo, Rashid Mvk, Emma Saroyan, Tereza Iofciu |
+| 🙋🏽‍♀️ - Attendees | Melissa Mendonça , Kamila Stepniowska, Anita Ihuman, Eloisa Elias Tran, Kweyakie Blebo, Rashid Mvk, Emma Saroyan|
 | 💬 - Chair in-session | Melissa Mendonça |
 | 📝 - Secretary | ---  |
 | ✅ - Minutes approval date |   |
