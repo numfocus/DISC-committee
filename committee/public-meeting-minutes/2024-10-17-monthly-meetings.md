@@ -18,7 +18,7 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
     - August https://github.com/numfocus/DISC-committee/pull/35
       - RESOLVED Meeting minutes for August are approved 
       - APPROVED 3-0-2
-    - September TBA (preliminary notes in drive: https://docs.google.com/document/d/1n8WcAX8-IZTuY9ITGruZELUWC-8pttvxaq6UoWdVA4g/edit?tab=t.0#heading=h.dpprkmk9d47t)
+    - September TBA (preliminary notes in drive)
       - Will vote next time
 
 2. [Melissa] New secretary election
