@@ -1,4 +1,4 @@
-# October 2024 - DISC Committee Meeting agenda
+# November 2024 - DISC Committee Meeting agenda
 
 ## Details
 
