@@ -10,10 +10,10 @@ To learn more about our work, please visit [the DISC website](https://numfocus.o
 - Melissa Weber Mendonça (Chair)
 - Anita Ihuman
 - Emma Saroyan
-- Rashid Mvk
 - Kweyakie Blebo
 - Eloisa Elias
 - Kamila Stepniowska (NumFOCUS staff)
+- Rashid Mvk (Ex-Secretary, former committee member)
 
 ## DISC resources
 
