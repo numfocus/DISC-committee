@@ -48,6 +48,8 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 - Took part in meetings with DISC Committee (Mentorship, Unconference)
 - Co-organizing the NumHack Yerevan 2024
 - Co-organizing the DISC Unconference 2025
+- Gave a talk at PgConf EU in Athens
+- Gave a talk at DevFest, 2x
 
 ### Kamila Stepniowska
 - Working on Unconefrence 2025 -  in particular fundraising, including Sloan grant (20k USD)
@@ -55,3 +57,10 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 - Coordination of https://pydata.org/numhack/ - AI hackathon, created by - PyData Global Impact scholars 2023
 - Working on the final text of NF CoC
 - Participation in FLOSS monthly meeting
+
+### Kweyakie Blebo
+- Co-organizing the DISC Unconference 2025
+- Co-organizing Accra Lawtech hangout
+- Secured discounts for women from Because She Can(BSC) to attend Accra Lawtech hangout
+- Management of BSC
+- Spoke with the Girls of the computer engineering department at the Kwame Nkrumah University of Science and Technology
