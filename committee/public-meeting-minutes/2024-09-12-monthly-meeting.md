@@ -67,3 +67,10 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 - Coordination of https://pydata.org/numhack/ - AI hackathon, created by - PyData Global Impact scholars 2023
 - Working on the final text of NF CoC
 - Participation in FLOSS monthly meeting
+
+### Kweyakie Blebo
+- Co-organizing the DISC Unconference 2025
+- Spoke at PyCon Africa 2024 on Bias and Fairness in Artificial Intelligence
+- Spoke on a panel at AI Afahye hosted by AI Ghana on Women Transforming the AI Industry.
+- Nominated for Woman in Tech of the Year Award by Women's Choice Africa
+- Management of Because She Can
