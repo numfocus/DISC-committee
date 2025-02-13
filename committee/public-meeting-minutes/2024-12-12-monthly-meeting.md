@@ -68,3 +68,7 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 - Coordination of https://pydata.org/numhack/ - AI hackathon, created by - PyData Global Impact scholars 2023
 - Working on the final text of NF CoC
 - Participation in FLOSS monthly meeting
+
+### Kweyakie Blebo
+- Co-organizing the DISC Unconference 2025
+- Management of Because She Can
