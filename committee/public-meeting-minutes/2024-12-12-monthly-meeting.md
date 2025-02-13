@@ -56,6 +56,11 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
 - Took part in meetings with DISC Committee (Mentorship, Unconference)
 - Co-organizing the NumHack Yerevan 2024
 - Co-organizing the DISC Unconference 2025
+- Promotion of the NumHack Yerevan
+- Published a book about GenAI, with Apress
+- Creation of the Postgres User Group (PUG)
+- Organization of the first PUG meetup in Yerevan
+- Participation in PyData Global Impact Scholarship program
 
 ### Kamila Stepniowska
 - Working on Unconefrence 2025 -  in particular fundraising, including Sloan grant (20k USD)
