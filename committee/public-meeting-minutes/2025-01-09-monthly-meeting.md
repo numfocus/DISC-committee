@@ -47,7 +47,7 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
     * Document: https://drive.google.com/drive/folders/1s4DnU1GidtRMxQCeq7uMz89q5PwrChGQ
 * Filling the Committee report in the meeting 
   * Please write your DEI related projects that you worked on in 2024; DISC related, and outside
-  * Deadline: in 2 weeks, 
+  * Deadline: in 2 weeks 
 * Black History Month, question form NumFOCUS Marketing - brainstorming on how to celebrate diversity months.
   * Emma: interview + social media campaign
   * Anita: Individuals, social media recognition -> video, spotlight
