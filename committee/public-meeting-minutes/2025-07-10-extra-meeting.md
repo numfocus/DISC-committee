@@ -4,7 +4,7 @@
 
 | <!-- -->    | <!-- -->    |
 |-----------|---|
-| 📅 - Date | 2025-02-13 |
+| 📅 - Date | 2025-07-10 |
 | 🙋🏽‍♀️ - Attendees | Melissa Mendonça, Kamila Stepniowska, Emma Saroyan, Kweyakie Blebo |
 | 💬 - Chair in-session | Melissa Mendonça |
 | 📝 - Secretary | -- |
