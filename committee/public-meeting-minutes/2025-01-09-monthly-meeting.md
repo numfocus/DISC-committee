@@ -7,15 +7,21 @@
 | 📅 - Date | 2025-01-09 |
 | 🙋🏽‍♀️ - Attendees | Kamila Stepniowska, Anita Ihuman, Emma Saroyan, Kweyakie Blebo |
 | 💬 - Chair in-session |  |
-| 📝 - Secretary | -- |
+| 📝 - Secretary | Kamila Stepniowska |
 | ✅ - Minutes approval date |   |
+
+A regular meeting of the DISC Committee was held over Group Conference Call via Zoom and Internet Relay Slack beginning at 5:00 PM UTC, on January 9, 2025. Kamila Stepniowska took notes/minutes.
 
 All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstentions-A*; e.g. "5-1-2" means "5 in favour, 1 opposed, and 2 abstentions").
 
 ## New business
-
-1. Approve minutes from prior meeting
-  - Emma accidentally approved the December meeting notes - I requested the changes, left comments
+1. Introduction - everyone types their name into Slack.
+2. General Announcements
+   * Kweyakie: social media strategy for DISC (discussed as a discussion item)
+4. Approve minutes from prior meeting
+   * Emma accidentally approved the December meeting notes 
+4. New Resolutions for discussion
+   * No
 
 ## Discussions
 
@@ -64,6 +70,8 @@ All votes are reported in the form **Y-N-A** (*in favor-Y‚opposed-N‚abstenti
   - Emma: interview + social media campaign
   - Anita: Individuals, social media recognition -> video, spotlight
   - Kamila: Anita, if I can contact with Kelby; I will also contact Kweyakie about that (internet connection issues)
+
+Meeting adjourned at 6:00 PM UTC, after an hour.
 
 ## Committee Reports for January 2025
 
